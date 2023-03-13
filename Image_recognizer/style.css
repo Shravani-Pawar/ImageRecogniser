@@ -1,0 +1,22 @@
+body{
+    background-color: black;
+    color:white;
+    
+}
+
+#camera{
+    border: 3px;
+    border-color: purple;
+    border-style: dashed;
+}
+
+.btn--{
+    background-color: yellow;
+    color: black;
+    font-size: 20;
+}
+
+  #main{
+      width: 300px;
+      font-size: 30px;
+  }
